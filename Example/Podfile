@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HYPersonInfoCategoryModule_Example' do
+  pod 'HYPersonInfoCategoryModule', :path => '../'
+
+  target 'HYPersonInfoCategoryModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
