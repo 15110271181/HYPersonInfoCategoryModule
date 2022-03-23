@@ -1,0 +1,6 @@
+framework module HYPersonInfoCategoryModule {
+  umbrella header "HYPersonInfoCategoryModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

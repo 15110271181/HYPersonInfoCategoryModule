@@ -1,0 +1,16 @@
+PODS:
+  - HYPersonInfoCategoryModule (0.1.0)
+
+DEPENDENCIES:
+  - HYPersonInfoCategoryModule (from `../`)
+
+EXTERNAL SOURCES:
+  HYPersonInfoCategoryModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HYPersonInfoCategoryModule: db3cc3f66c0663c4eba354b76c6684c4d7aa8490
+
+PODFILE CHECKSUM: f4bad47418b955780323c9827436ddf8cc1d4e0b
+
+COCOAPODS: 1.11.2
